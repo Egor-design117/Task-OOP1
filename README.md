@@ -3,21 +3,7 @@
 
 <hr>
 
-<h3>Используемые технологии</h3>
-<table border="1" cellpadding="8">
-  <tr>
-    <th>Технология</th>
-    <th>Назначение</th>
-  </tr>
-  <tr>
-    <td>Entity Framework Core</td>
-    <td>ORM для работы с базой данных</td>
-  </tr>
-  <tr>
-    <td>SQL Server</td>
-    <td>Серверная реляционная СУБД</td>
-  </tr>
-</table>
+<
 
 <h3>Основной функционал</h3>
 <ul>
